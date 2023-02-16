@@ -126,9 +126,6 @@ import 'dart:io';
 void main()
 {
   List l1 = [];
-  List l2 = [];
-  List l3 = [];
-  List l4 = [];
   num ans=0;
   int n,no;
   int i, j;
